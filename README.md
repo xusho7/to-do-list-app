@@ -1,2 +1,38 @@
-# MySampleApp1
-Sample
+# To-Do List App
+
+## Overview
+
+This project was developed during a 5-day internship program and was my first hands-on experience working with a modern frontend development environment.
+
+The project started from a resume generator UI template provided by my internship team. During the internship, I customized the existing codebase and transformed the application into a To-Do List app by modifying the design and functionality.
+
+This project gave me exposure to working with an existing React project, understanding frontend workflows, and using modern development tools.
+
+## Features
+
+- Add tasks
+- Mark tasks as completed
+- Delete tasks
+- Manage daily tasks through an interactive interface
+
+## Technologies Used
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- npm
+
+## Development Experience
+
+As this was my first time working with React and related frontend technologies, I used documentation, online resources, and AI-assisted tools to help understand the codebase, troubleshoot issues, and make modifications.
+
+Through this short-term internship project, I gained experience with:
+- Reading and modifying an existing codebase
+- Understanding React project structure
+- Working with frontend development tools
+- Researching and solving technical issues
+
+## Acknowledgements
+
+The original project structure was provided as a starter template by my internship team.
