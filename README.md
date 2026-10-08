@@ -4,7 +4,7 @@
 
 This project was developed during a 5-day internship program and was my first hands-on experience working with a modern frontend development environment.
 
-The project started from a resume generator UI template provided by my internship team. During the internship, I customized the existing codebase and transformed the application into a To-Do List app by modifying the design and functionality.
+The project started from a resume generator UI template provided by my internship team. During the internship, I added and modified code in the existing codebase to see how each change affected the website, which turned it into a simple To-Do List app.
 
 This project gave me exposure to working with an existing React project, understanding frontend workflows, and using modern development tools.
 
@@ -32,6 +32,11 @@ Through this short-term internship project, I gained experience with:
 - Understanding React project structure
 - Working with frontend development tools
 - Researching and solving technical issues
+- Using Git and GitHub to manage changes
+
+## Note
+
+This is a learning project, not a finished production app.
 
 ## Acknowledgements
 
